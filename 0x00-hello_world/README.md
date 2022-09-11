@@ -1,1 +1,1 @@
-To run the Betty linter just with command
+Write a C program that prints exactly
