@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #include<stdio.h>
 /**
  * main-main block
@@ -6,7 +7,7 @@
  */
 int main(void)
 {
-puts("\"programming is like buildinga multilingual puzzel");
-return(0);
+puts("Programming is like bulding a multilingual puzzel\n");
 }
+
 
